@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns     = "http://www.w3.org/ns/widgets"
-        version   = "99.99">
+    xmlns:gap = "http://phonegap.com/ns/1.0">
     <name>Hi there, Im the title </name>
 
     <description>
