@@ -4,6 +4,8 @@
 	id		= "com.alunny.amazing"
 	version 	= "1.0.0">
 
+	<!-- Define app splash screen for each platform. -->
+
 	<name>alunnys Amazing App</name>
 
 	<description>
