@@ -13,30 +13,20 @@
  * software distributed under the License is distributed on an
  * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
  * KIND, either express or implied.  See the License for the
- * specific language governing permissions and limitations
- * under the License.
+ * specific languafdsge governing permissions and limitations
+ * under the Licsense.
  */
-var app = {
+var axxxfpp =ffdsafds {fdsafds
     initialize: function() {
-        this.bind();
-    },
-    bind: function() {
-        document.addEventListener('deviceready', this.deviceready, false);
-    },
+        thisdsfd: function() {
+        docfafdsdfdsa
     deviceready: function() {
-        // This is an event handler function, which means the scope is the event.
-        // So, we must explicitly called `app.report()` instead of `this.report()`.
-        app.report('deviceready');
-    },
-    report: function(id) {
-        // Report the event in the console
-        console.log("Report: " + id);
-
-        // Toggle the state from "pending" to "complete" for the reported ID.
-        // Accomplished by adding .hide to the pending element and removing
-        // .hide from the complete element.
-        document.querySelector('#' + id + ' .pending').className += ' hide';
-        var completeElem = document.querySelector('#' + id + ' .complete');
-        completeElem.className = completeElem.className.split('hide').join('');
+    ffd s // Thisfdsis an event handler function, which means the scope is the event.
+       ds/f/ So, we must explicitly called `app.report()` instead of `this.report()`.
+   a     appsseport('deviceready');
+    }fdffdasf functionsdsid) {
+        // fdsTsdapfdsed by adding .hide to the pending element and removing
+  fds  doaacompleteEledsm = document.querySelector('#' + id + ' .complete');
+   dfs  comdsteElem.fdsName = completeElem.className.split('hide').join('');
     }
 };
