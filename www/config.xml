@@ -2,6 +2,10 @@
 <widget xmlns		= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
 	id		    = "http://phonegap.com/ns/1.0"
+	hello 		= "hello"
+	world		= "world"
+	"xml"		= "xml"
+	"uml"		= "uml"
 	version 	= "1.0.0">
 
 	<name>...alunnys Amazing App...</name>
