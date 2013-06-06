@@ -24,7 +24,7 @@
 		<gap:platform name="blackberry" project="widgets"/>
 	</gap:platforms>
 
-	<icon src="blurry.jpeg" gap:role="default" />
+	<icon src="blurry.png" gap:role="default" />
 
     gap:splash src="weirdo.png" 
 
