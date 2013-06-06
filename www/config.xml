@@ -3,7 +3,7 @@
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
 	id		    = "http://phonegap.com/ns/1.0"
 	hello 		= "hello"
-	version 	= "1.0.0">
+	version 	= "500">
 
 	<name>...alunnys Amazing App...</name>
 
