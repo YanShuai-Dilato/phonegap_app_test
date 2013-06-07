@@ -10,8 +10,6 @@
 		An Amazing app by alunny
 	</description...>
 	
-	//////////////.....................\\\\\\\\\\\\\\\\
-	
 	<gap:platforms>
 		<gap:platform name="OSX" />
 	</gap:platforms>
